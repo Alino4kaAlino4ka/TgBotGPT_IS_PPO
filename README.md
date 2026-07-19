@@ -139,6 +139,10 @@ telegram-bot-iss/
 
 ## Скриншоты работы бота
 
+### Бот в Telegram
+
+![Бот в Telegram](screenshots/0%20tg_bot.png)
+
 ### Информация о боте в Telegram
 
 ![Информация о боте](screenshots/1%20info.png)
