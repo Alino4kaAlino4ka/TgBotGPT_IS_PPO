@@ -141,7 +141,7 @@ telegram-bot-iss/
 
 ### Информация о боте в Telegram
 
-![Информация о боте](screenshots/0 tg_bot.png)
+![Информация о боте](0 tg_bot.png)
 
 ### Приветственное сообщение (/start)
 
